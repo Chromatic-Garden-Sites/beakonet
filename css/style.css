@@ -1,0 +1,48 @@
+html {
+    background-color: black;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
+
+p {
+    line-height: 1.4;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a:link {
+    color: #ed88c3;
+}
+
+a:visited {
+    color: #437a16;
+}
+
+a:focus {
+    border-bottom: 1px solid;
+    background: #f0adcf;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+    background: #f4c2db;
+}
+
+a:active {
+    background: #ed88c3;
+    color: #f0adcf;
+}

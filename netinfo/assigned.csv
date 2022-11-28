@@ -19,7 +19,7 @@ Netblock,Country,Region code,City,User,Use case
 2602:fba2:1100:1100::/64,CA,CA-ON,Toronto,Moki,Moki router transit block
 2602:fba2:aaaa::/48,US,US-HI,Hanalei,Aubrey home subnet v6 NHL
 2606:c740::/32,AU,AU-NSW,Sydney,N/A,Global catch all v6
-2602:fba2:eaa1::/48,CA,CA-ON,Toronto,
+2602:fba2:eaa1::/48,CA,CA-ON,Toronto,Unk,Not assigned
 2602:fba2:d000::/48,CA,CA-BC,Vancouver,N/A,Vancouver VM placeholder
 2602:fafd:faf::/48,AU,AU-QLD,Gold Coast,Aubrey,Meme subnet
 2a06:9f80::/30,AU,AU-QLD,Gold Coast,Aubrey,Bigblock 1 placeholder

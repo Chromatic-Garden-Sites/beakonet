@@ -8,7 +8,7 @@
 23.133.253.0/24,AU,AU-VIC,Melbourne,
 23.133.254.0/24,AU,AU-VIC,Melbourne,
 23.133.255.0/24,AU,AU-VIC,Melbourne,
-103.68.108.0/24,CA,CA-ON,Toronto,
+128.254.226.64/26,CA,CA-ON,Toronto,
 128.254.226.0/24,AU,AU-VIC,Melbourne,
 2602:fba2::/32,AU,AU-VIC,Melbourne,
 2602:fba2:1::/48,CA,CA-ON,Toronto,

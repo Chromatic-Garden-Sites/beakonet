@@ -11,6 +11,7 @@
 128.254.226.64/26,CA,CA-ON,Toronto,
 128.254.226.0/24,AU,AU-VIC,Melbourne,
 2602:fba2::/32,AU,AU-VIC,Melbourne,
+2602:fba2:3::/48,AU,AU-VIC,Melbourne,
 2602:fba2:1::/48,CA,CA-ON,Toronto,
 2602:fba2:2::/48,CA,CA-ON,Toronto,
 2602:fba2:e2ad::/48,CA,CA-ON,Toronto,

@@ -1,9 +1,0 @@
-[Interface]
-PrivateKey = WFrdHxcOioIVkpU8oUe6zqibFKRu7+0olbX5y7FpDWQ=
-Address = 2a06:a004:3692::2/48
-
-[Peer]
-PublicKey = W0pI832mL5u7JzJjiE68dyS95mIGBDqGgSxSZromEGY=
-AllowedIPs = ::/1, 8000::/1
-Endpoint = 194.50.19.23:52000
-PersistentKeepalive = 60

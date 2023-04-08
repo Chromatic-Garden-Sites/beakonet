@@ -24,3 +24,5 @@
 2a05:dfc1:2200::/40,AU,AU-VIC,Melbourne,
 2a05:dfc1:2300::/40,AU,AU-VIC,Melbourne,
 2a05:dfc1:2400::/40,AU,AU-VIC,Melbourne,
+2a06:a005:ee0::/44,US,US-MA,Boston,
+2a06:a005:ee0::/48,US,US-CA,Whitethorn,

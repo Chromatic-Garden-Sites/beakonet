@@ -16,7 +16,7 @@
 2602:fba2::/32,AU,AU-VIC,Melbourne,
 2602:fba2:3::/48,AU,AU-VIC,Melbourne,
 2602:fba2:1::/48,CA,CA-ON,Toronto,
-2602:fba2:2::/48,US,US-MA,Cambridge,
+2602:fba2:2::/48,CA,CA-ON,Toronto,
 2602:fba2:e2ad::/48,CA,CA-ON,Toronto,
 2602:fba2:2112::/48,CA,CA-ON,Toronto,
 2602:fba2:1100:1100::/64,CA,CA-ON,Toronto,
